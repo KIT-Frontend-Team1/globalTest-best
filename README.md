@@ -1,6 +1,9 @@
-# globalTest (전역상태관리) 2페어 BEST PRACTICE 입니다
+# globalTest
 
-## ➡️ 2페어 조원 소개
+## pair2 - 전역상태관리 BEST PRACTICE 입니다
+
+
+### ➡️ 2페어 소개
 
 <table style="margin-left: auto; margin-right: auto; width: 600px; height: 200px;">
   <tr>
