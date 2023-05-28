@@ -7,7 +7,7 @@
 
 <table style="margin-left: auto; margin-right: auto; width: 600px; height: 200px;">
   <tr>
-    <td><a href="https://github.com/ooherin">🐬 오헤린</a></td>
+    <td><a href="https://github.com/ooherin">🐬 오혜린</a></td>
     <td><a href="https://github.com/Jang-Sang">👨‍🌾 장상준</a></td>
   </tr>
 </table>
